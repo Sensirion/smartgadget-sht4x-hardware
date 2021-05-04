@@ -1,0 +1,39 @@
+Altium Designer Pick and Place Locations
+C:\work\SVN\PCBDesign\AltiumProjects\01_Projects\103_Gordo\03_Gordo2_SHT4x\tags\Version3 2254923\Produktionsdaten\2254923_Gordo2_SHT4x_V3_ASSEMBLY_AV1\2254923_Gordo2_SHT4x_V3_PickPlace_AV1.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       09.12.20
+Time:       14:35
+Revision:   28502
+Variant:    AV1
+Units used: mm
+
+Designator Comment                             Layer    Footprint               Center-X(mm) Center-Y(mm) Rotation Description                             
+Sen1       SHT40-AD1B                          TopLayer SHT4x-xD1               11.6996      20.5504      360      "SENSOR HUMID/TEMP 3.6V I2C 1.8% SMD"   
+LCD1       LCD_1209061_A2                      TopLayer LCD_1209061             34.6238      16.8004      0        "LCD MOD GRAPH FOR LOWCOST HUMI GADGET" 
+IC2        BVMCN5103-CEAA-BK                   TopLayer BVMCN5103_Small         59.5500      27.4500      270      "BLUETOOTH LOW ENERGY 4.1 MODUL BLE"    
+C13        "no electrical function (e.g. 1uF)" TopLayer C_0805                  48.2238      4.3004       0        "GENERAL CAPACITOR"                     
+C12        "no electrical function (e.g. 1uF)" TopLayer C_0805                  21.0238      4.3004       180      "GENERAL CAPACITOR"                     
+C11        "no electrical function (e.g. 1uF)" TopLayer C_0805                  48.2238      29.3004      180      "GENERAL CAPACITOR"                     
+C10        "no electrical function (e.g. 1uF)" TopLayer C_0805                  21.0238      29.3004      180      "GENERAL CAPACITOR"                     
+BAT1       3V                                  TopLayer BAT_BAT-HLD-001-THM     62.4000      11.4500      270      "RETAINER BATT CR2025/2032 PC PIN"      
+C1         100n                                TopLayer C_0402                  36.4238      11.9004      180      "GENERAL CAPACITOR"                     
+C2         100n                                TopLayer C_0402                  38.0000      10.9000      360      "GENERAL CAPACITOR"                     
+C3         100n                                TopLayer C_0402                  38.5238      11.9004      360      "GENERAL CAPACITOR"                     
+C4         100n                                TopLayer C_0402                  39.1238      13.4004      270      "GENERAL CAPACITOR"                     
+C5         100n                                TopLayer C_0402                  40.1238      19.0504      90       "GENERAL CAPACITOR"                     
+C23        100n                                TopLayer C_0402                  7.7250       20.5504      270      "GENERAL CAPACITOR"                     
+IC1        MC9S08LL8CGT                        TopLayer QFN50P700X700X80_HS-49N 34.6238      16.8004      90       "IC MCU 8BIT 10KB FLASH 48QFN"          
+Q1         ABS07-32.768KHZ-T                   TopLayer XTAL_ABS07              42.3238      16.8004      270      "CRYSTAL 32.7680KHZ 12.5PF SMD"         
+R4         10k                                 TopLayer R_0402                  23.3000      27.8004      360      "GENERAL RESISTOR"                      
+R6         10k                                 TopLayer R_0402                  23.3000      26.8004      360      "GENERAL RESISTOR"                      
+SW1        EVQ-Q2P02W                          TopLayer SW_EVQQ2P02W            11.7002      5.5998       0        "SWITCH TACTILE SPST-NO 0.02A 15V"      
+C6         100n                                TopLayer C_0402                  44.4500      16.8004      270      "GENERAL CAPACITOR"                     
+C7         100n                                TopLayer C_0402                  47.5500      25.7254      180      "GENERAL CAPACITOR"                     
+C8         100n                                TopLayer C_0402                  47.5500      24.2504      180      "GENERAL CAPACITOR"                     
+C14        22u                                 TopLayer C_0603                  42.7000      26.7000      180      "GENERAL CAPACITOR"                     
+C15        22u                                 TopLayer C_0603                  42.7000      25.1000      180      "GENERAL CAPACITOR"                     
+C16        22u                                 TopLayer C_0603                  42.7000      13.1000      180      "GENERAL CAPACITOR"                     
+C17        22u                                 TopLayer C_0603                  42.7000      11.5000      180      "GENERAL CAPACITOR"                     

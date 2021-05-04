@@ -1,0 +1,89 @@
+===========================================================================
+Daten für Leiterplatte (PCB-Data): 2254923
+===========================================================================
+
+===========================================================================
+Kontaktperson (contact)
+===========================================================================
+
+Michel Albrecht
+SENSIRION AG                phone    +41 44 306 40 00
+Laubisrütistr. 50           fax      +41 44 306 40 30
+Postfach 235                e-mail   PCBDesign@sensirion.com
+CH-8712 Stäfa               web      http://www.sensirion.com
+Switzerland
+
+===========================================================================
+Daten Leiterplatte (Data)
+===========================================================================
+
+PCB Nummer (PCB number):                            2254923
+
+Abmessungen (dimensions):                           75 mm x 37 mm
+
+Basismaterial (material):                           FR4 / 1.0 mm
+
+Kupferauflage (copper):                             35um
+
+Lagen (layers):                                     2 Top & Bottom
+
+Design struktur (Min Track/Spacing:):               >=0.15 mm
+
+Kleinster Bohrdurchmesser (min hole size):          0.2 mm
+
+Anzahl Bohrdurchmesser (no. of drilling diameter):  4
+
+Anzahl Bohrungen (no. of holes):                    131
+
+Zusätzliche Viaverarbeitung (add. via process):     No                   
+
+Oberfläche (surface finish):                        HAL lead-free
+
+Lötstopplack (soldermask):                          Top & Bottom / green
+
+Bestückungsdruck (silkscreen):                      Top & Bottom / white
+
+UL Zulassung (UL approval):                         UL94 V-0
+
+UL Kennzeichnung (UL marking):                      Nein (no)
+
+Prüfung (test):                                     elektrisch (electrical)
+
+===========================================================================
+Filedefinition Gerberdaten
+===========================================================================
+
+*.GM1 Rand (Border)
+*.GM4 Fräsen (milling)
+
+*.GTO Bestückungsdruck oben (TopOverlay)
+*.GTS Stopplack oben (TopSolder)
+*.GTL Kupfer oben (TopLayer)
+*.GBL Kupfer unten (BottomLayer)
+*.GBS Stopplack unten (BottomSolder)
+*.GBO Bestückungsdruck unten (BottomOverlay)
+
+*.GTP Paste oben (TopPaste)
+*.GPT PadMaster oben (TopPadMaster)
+
+*.DRR Bohrdatei (NCDrill File Report)
+*.TXT Bohrdatei (NCDrill ASCII File)
+
+===========================================================================
+Layer Stack:
+===========================================================================
+
+GTL
+GBL
+
+
+
+
+
+
+
+
+
+
+===========================================================================
+TXTVersion 003
